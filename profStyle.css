@@ -1,0 +1,30 @@
+body
+{
+    background-color: green;
+    color: white;
+	font-family: Arial;
+	font-size: 16pt;
+	background-image: url(gta);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+p
+{
+    background-color: white;
+    color: black;
+	font-family: "Times New Roman";
+    font-size: 16pt;
+}
+a
+{
+    background-color: white;
+}
+h1
+{
+    background-color: black;
+}
+h3
+{
+    background-color: black;
+}
