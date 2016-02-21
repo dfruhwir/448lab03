@@ -1,7 +1,7 @@
 body
 {
-    background-color: green;
-    color: white;
+	background-color: green;
+	color: white;
 	font-family: Arial;
 	font-size: 16pt;
 	background-image: url(gta);
@@ -11,20 +11,27 @@ body
 }
 p
 {
-    background-color: white;
-    color: black;
+	background-color: white;
+	color: black;
 	font-family: "Times New Roman";
-    font-size: 16pt;
+	font-size: 16pt;
 }
 a
 {
-    background-color: white;
+	background-color: white;
 }
+
+a:hover
+{
+	color: yellow;
+	background-color: black;
+}
+
 h1
 {
-    background-color: black;
+	background-color: black;
 }
 h3
 {
-    background-color: black;
+	background-color: black;
 }
